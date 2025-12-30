@@ -57,16 +57,14 @@ It delivers an immersive and interactive portfolio that feels like a native OS e
 
 *Preview of the portfolio interface — macOS style window, dock, and layout.*
 
-![Home Screen / Desktop UI](![img.png](img.png))  
+![img_3.png](img_3.png)
 *macOS-styled homepage with dock and desktop elements.*
 
-![Projects Window](![img_1.png](img_1.png))  
+![img.png](img.png)  
 *App-style Projects window with smooth GSAP animations.*
 
-![Dock Interaction](![img_2.png](img_2.png))  
+![img_1.png](img_1.png)
 *Interactive dock hover effects.*
-
-> Tip: Place your actual screenshots in `/screenshots` and update file names if needed.
 
 ---
 
